@@ -12,4 +12,8 @@ color:
     - '#92CDCF'
     - '#EEEFF7'
 name: Kitethrills Mauritius
-navigation: []
+navigation:
+  - id: 'http://kitethrills.com/mauritius'
+    url: 'http://kitethrills.com/mauritius'
+    name: Mauritius website
+    type: external
